@@ -15,5 +15,13 @@ Production: https://civic-access-wcag-audit.vercel.app
 ## Stack
 
 - HTML and CSS
-- GitHub Pages hosting
+- Vercel hosting
+
+## Local Operations
+
+```bash
+npm run start
+```
+
+The audit kit is served as a static accessibility review interface and can be deployed directly through Vercel.
 

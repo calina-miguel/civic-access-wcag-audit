@@ -1,0 +1,12 @@
+{
+  "name": "civic-access-wcag-audit",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "node -e \"console.log('Static accessibility interface ready for Vercel')\""
+  },
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
